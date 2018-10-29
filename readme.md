@@ -1,1 +1,1 @@
-this sample realated with native-php-api
+this sample related with native-php-api
